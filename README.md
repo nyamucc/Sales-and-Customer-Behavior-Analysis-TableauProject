@@ -8,3 +8,34 @@ The goal of this project is to analyze sales performance and customer behavior b
 - **Tableau** for visualization
 - **Python (Pandas)** for data cleaning and manipulation
 - **CSV** format for the data
+## Data Source:
+https://www.kaggle.com/datasets/antaesterlin/walmart-commerce-data
+
+## Project Description:
+This analysis focuses on transactional data for a business. The dataset contains information about sales transactions, including:
+- **Invoice ID**
+- **Branch**
+- **City**
+- **Customer Type** (e.g., "Member", "Normal")
+- **Gender**
+- **Product Line**
+- **Unit Price**
+- **Quantity**
+- **VAT**
+- **Total Sales**
+- **Date and Time of Transaction**
+- **Payment Method**
+- **Cost of Goods Sold (COGS)**
+- **Gross Margin Percentage**
+- **Gross Income**
+- **Customer Rating**
+- **Time of Day**
+- **Day of the Week**
+- **Month**
+
+The data was processed, cleaned, and analyzed to derive key insights and visualizations, including:
+- **Sales Trends**: Visualizing sales over time (monthly, by day, or by time of day).
+- **Product Line Performance**: Analyzing which product lines are performing the best in terms of sales and profitability.
+- **Customer Demographics**: Understanding how customer type and gender affect sales.
+- **Profitability Analysis**: Analyzing the profitability of different product lines based on gross income and gross margin.
+  
