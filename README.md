@@ -17,25 +17,26 @@ https://www.kaggle.com/datasets/antaesterlin/walmart-commerce-data
 
 ## Project Description:
 This analysis focuses on transactional data for a business. The dataset contains information about sales transactions, including:
-- **Invoice ID**
-- **Branch**
-- **City**
-- **Customer Type** (e.g., "Member", "Normal")
-- **Gender**
-- **Product Line**
-- **Unit Price**
-- **Quantity**
-- **VAT**
-- **Total Sales**
-- **Date and Time of Transaction**
-- **Payment Method**
-- **Cost of Goods Sold (COGS)**
-- **Gross Margin Percentage**
-- **Gross Income**
-- **Customer Rating**
-- **Time of Day**
-- **Day of the Week**
-- **Month**
+
+- **Invoice ID**: Unique identifier for each transaction.
+- **Branch**: The branch where the sale occurred.
+- **City**: The city where the branch is located.
+- **Customer Type**: Customer classification, e.g., "Member" or "Normal".
+- **Gender**: Gender of the customer.
+- **Product Line**: The category of the product sold.
+- **Unit Price**: Price of one unit of the product.
+- **Quantity**: Number of units sold.
+- **VAT**: Value-added tax applied on the sale.
+- **Total**: Total price for the sale.
+- **Date and Time of Transaction**: The date and time when the transaction occurred.
+- **Payment Method**: Payment method used for the transaction (e.g., Credit Card, Ewallet).
+- **COGS**: Cost of goods sold for the transaction.
+- **Gross Margin %**: Gross margin percentage for the product.
+- **Gross Income**: Gross income from the transaction.
+- **Rating**: Customer rating of the product or service.
+- **Time of Day**: Time of the day when the purchase was made (e.g., Morning, Afternoon, Evening).
+- **Day Name**: The day of the week on which the transaction occurred.
+- **Month Name**: The month during which the sale occurred.
 
 The data was processed, cleaned, and analyzed to derive key insights and visualizations, including:
 - **Sales Trends**: Visualizing sales over time (monthly, by day, or by time of day).
