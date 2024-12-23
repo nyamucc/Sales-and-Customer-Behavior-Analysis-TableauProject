@@ -1,8 +1,12 @@
 # Sales-and-Customer-Behavior-Analysis-TableauProject
 This project demonstrates the analysis of sales performance and customer behavior using a dataset containing transactional information. The project includes a Tableau dashboard with interactive visualizations.
 
-## Project Objective:
-The goal of this project is to analyze sales performance and customer behavior based on the provided dataset.Interactive visualizations will be created  to explore key metrics, identify trends, and derive insights about product sales, customer preferences, and time-based patterns.
+## Project Goals:
+The primary goal of this project is to help the business understand:
+- Which products are the most profitable and why.
+- How sales trends change over time and how to capitalize on peak periods.
+- How customer behavior affects purchasing decisions.
+- Opportunities to improve product lines and increase customer satisfaction.
 
 ## Tools Used:
 - **Tableau** for visualization
