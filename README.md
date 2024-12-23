@@ -43,4 +43,18 @@ The data was processed, cleaned, and analyzed to derive key insights and visuali
 - **Product Line Performance**: Analyzing which product lines are performing the best in terms of sales and profitability.
 - **Customer Demographics**: Understanding how customer type and gender affect sales.
 - **Profitability Analysis**: Analyzing the profitability of different product lines based on gross income and gross margin.
+
+  ## Instructions:
+To interact with the Tableau dashboard and explore the data:
+1. Download the Tableau workbook `sales_analysis.twbx` from the [repository](https://github.com/nyamucc/sales-customer-behavior-analysis).
+2. Open the Tableau workbook in **Tableau Desktop** or **Tableau Public** (if the workbook is published publicly).
+3. Explore the interactive dashboard, which includes filters for different product lines, cities, customer types, and more.
+
+If you wish to review the data:
+- You can also download the dataset in CSV format from the `data` folder in this repository.
+
+## How to Run:
+1. Clone this repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/your_username/sales-customer-behavior-analysis.git
   
