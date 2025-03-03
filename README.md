@@ -56,5 +56,5 @@ If you wish to review the data:
 ## How to Run:
 1. Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your_username/sales-customer-behavior-analysis.git
+   git clone https://github.com/nyamucc/sales-customer-behavior-analysis.git
   
